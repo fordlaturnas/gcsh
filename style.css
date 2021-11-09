@@ -23,5 +23,5 @@ p {
 }
 
 #image {
-  transform: translateX(1px);
+  transform: translateX(10px);
 }
